@@ -1,0 +1,21 @@
+.asd{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+footer {
+
+    position: absolute;
+    bottom: 0;
+    background-color: gray;
+    right: 0;
+    left: 0;
+    border-radius: 50px;
+    margin: 5px;
+    border: black 5px solid;
+
+}
